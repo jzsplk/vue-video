@@ -5,7 +5,7 @@ import App from './App'
 import router from './router'
 import VideoPlayer from 'vue-video-player'
 
-require('video.js/dist/video-js.css')
+import 'video.js/dist/video-js.css'
 
 Vue.config.productionTip = false
 
